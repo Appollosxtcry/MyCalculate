@@ -23,7 +23,7 @@ public class CalcController {
 Результат тестирования контроллера:  
 ![Тестирование суммы](https://github.com/Appollosxtcry/MyCalculate/blob/main/test_calc1.png?raw=true, "Тестирование суммы")
 ![Тестирование разности](https://github.com/Appollosxtcry/MyCalculate/blob/main/test_calc2.png?raw=true, "Тестирование разности")
-### 2. Подключил Swagger, добавив в pom.xml необходимую зависимость
+### 2. Подключил Swagger, добавив в файл "pom.xml" необходимую зависимость
 ```java
 <dependency>
     <groupId>org.springdoc</groupId>
